@@ -5,5 +5,3 @@ torchaudio
 diffusers
 transformers
 accelerate
-xformers
-Pillow
