@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+xformers
+Pillow
